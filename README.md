@@ -49,9 +49,5 @@
     <li>Atualizar um usuário: <code>PUT</code> ou <code>PATCH</code> <a href="http://localhost:3000/api/v1/users/:id">http://localhost:3000/api/v1/users/:id</a></li>
     <li>Excluir um usuário: <code>DELETE</code> <a href="http://localhost:3000/api/v1/users/:id">http://localhost:3000/api/v1/users/:id</a></li>
 </ul>
-
-<h2>🤝 Contribuição</h2>
-<p>Sinta-se à vontade para abrir issues, enviar pull requests e colaborar para melhorar esta API.</p>
-
 </body>
 </html>
